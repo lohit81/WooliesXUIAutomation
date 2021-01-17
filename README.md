@@ -16,6 +16,7 @@ This solution contains the simplest way to automate a web application (UI) by se
 
 More info, see Package.Config file.
 
+![UIStructure](https://user-images.githubusercontent.com/4488811/104839026-cedff800-5912-11eb-8e24-45d434c0caf8.png)
 
 
 # App.Config
