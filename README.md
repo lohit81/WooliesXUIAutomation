@@ -15,7 +15,9 @@ This solution contains the simplest way to automate a web application (UI) by se
 -	Install Selenium Webdriver, and WebDriver.Support.
 
 More info, see Package.Config file.
- 
+
+
+
 # App.Config
 
 Additional files like App.Config contains Information such as what environment we wish to execute our tests, here I mentioned as UAT for test illustration only. In the testConfig class, I mentioned about the base URL. There’s a way to Improve by mentioning URL in App config and call in testConfig class.
@@ -28,7 +30,9 @@ This file contains information such as how many tries a solution should do if a 
 # Page Object Model with Selenium
 
 The Page Object Model is a pattern, that is often used to abstract your Web UI with Selenium to easier automate it.
- 
+
+![POM](https://user-images.githubusercontent.com/4488811/104838993-93452e00-5912-11eb-9a5c-8930e72578f8.png)
+
 
 # Page Object Model structure 
 •	Feature folder contains the feature file(s) pertaining the scenarios in Gherkin language i.e. GIVEN, WHEN and THEN
